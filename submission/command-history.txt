@@ -1,0 +1,4 @@
+[PASTE YOUR ACTUAL COMMAND HISTORY HERE]
+
+Submission requirement: provide .bash_history or a copy-paste of the commands used.
+Do not submit this placeholder unchanged. Do not include passwords or unrelated sensitive commands.

@@ -1,0 +1,19 @@
+# OS/editor noise
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporary and log files
+*.tmp
+*.log
+
+# Local environment secrets
+.env
+.env.*
+
+# Keep required evidence and submission templates tracked.
+# Do not ignore submission/final-output.txt or submission/command-history.txt.

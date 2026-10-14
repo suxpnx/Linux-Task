@@ -1,0 +1,9 @@
+chmod is a Linux command used to change the permissions of files and directories, controlling who can read, write, or execute them.
+
+ls -l displays files and directories in a detailed format, showing their permissions, ownership, size, and modification date.
+
+useradd is a Linux command used to create a new user account on the system.
+
+The chmod command helps protect files by restricting access to authorized users and groups.
+
+The ls -l and useradd commands help administrators inspect file details and manage user accounts effectively.

@@ -1,0 +1,3 @@
+[PASTE THE ACTUAL OUTPUT OF `ls -laR /home/agent007/mission/` HERE]
+
+Do not submit this placeholder unchanged. Alternatively, submit a genuine screenshot of the command and its output.

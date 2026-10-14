@@ -1,0 +1,45 @@
+    1  whoami
+    2  clear
+    3  history > commands
+    4  cclear
+    5  clear
+    6  history > commands_used.txt
+    7  clera
+    8  clear
+    9  mkdir mission
+   10  cd mission
+   11  mkdir intel ops
+   12  cd ops
+   13  mkdir backups
+   14  tree ~
+   15  tree ~ > tree out
+   16  ls
+   17  i'm tree
+
+cd ~
+   18  i'm 'tree ~'
+   19  ls
+   20  rm 'tree ~'
+   21  ls
+   22  rm tree
+   23  ls
+   24  cd ~
+   25  tree ~ > tree_out
+   26  ls
+   27  tree ~
+   28  cd /home/agent007/mission/intel
+   29  ls
+   30  touch targets.txt routes.txt keys.txt
+   31  ls > listing1.txt
+   32  ls -l > listing2.txt
+   33  ls -la > listing3.txt
+   34  find ~ -type d -name backups
+   35  cp routes.txt /home/agent007/mission/ops/backups
+   36  ls /home/agent007/mission/ops/backups
+   37  rm keys.txt
+   38  ls -l targets.txt
+   39  chmod 640 targets.txt
+   40  ls -l targets.txt
+   41  rm /home/agent007/mission/ops/backups/routes.txt
+   42  cp routes.txt /home/agent007/mission/ops/backups
+   43  history >> commands_used.txt
